@@ -69,6 +69,7 @@ class Livro {
     const resultado = await this.criar();
     return resultado;
   }
+  
 }
 
 export default Livro;
